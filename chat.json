@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, we'll change the image to a toilet paper theme.",
+        "message_id": "guest24082024203913",
+        "timestamp": "24082024203914",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be something toilet paper themed",
         "message_id": "guest24082024203913",
