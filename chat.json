@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the robotic dinosaur image to have a specific theme or color scheme?\", \"option1\": \"Yes, I have a specific theme or color scheme in mind.\", \"option2\": \"No, any robotic dinosaur image will do.\"}, {\"question 2\": \"Do you want the robotic dinosaur image to be placed in a specific area of the app or to replace an existing image?\", \"option1\": \"Yes, it should replace an existing image or be placed in a specific area.\", \"option2\": \"No, place it wherever it fits best in the app's design.\"}], \"input_token_count\": 401, \"output_token_count\": 132, \"time_taken\": \"0:00:02.673384\"}",
+        "message_id": "guest24082024203844",
+        "timestamp": "24082024203849",
+        "component_file_name": "purple_header_component_1724530087",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on changing the image to a robotic dinosaur.",
         "message_id": "guest24082024203844",
