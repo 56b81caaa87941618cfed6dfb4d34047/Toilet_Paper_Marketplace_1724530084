@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the robotic dinosaur image to convey a specific theme or emotion?\", \"option1\": \"Yes, a friendly and welcoming theme.\", \"option2\": \"No specific theme, just a generic robotic dinosaur.\"}, {\"question 2\": \"Should the new image replace an existing image, or is it to be added in a specific section of the marketplace?\", \"option1\": \"Replace an existing image.\", \"option2\": \"Add to a specific section.\"}], \"input_token_count\": 271, \"output_token_count\": 107, \"time_taken\": \"0:00:03.061479\"}",
         "timestamp": "24082024200844",
         "message_id": "guest24082024200840"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a gallery section for multiple images of each product, including the robotic dinosaur image.\", \"checked\": true}, {\"feature\": \"Implement an augmented reality view to see the product in a real environment.\", \"checked\": false}, {\"feature\": \"Integrate a 'Featured Products' carousel on the homepage with dynamic product highlights.\", \"checked\": true}, {\"feature\": \"Add user reviews section under each product with user-uploaded images.\", \"checked\": false}, {\"feature\": \"Include a 'Similar Products' recommendation system based on user browsing history.\", \"checked\": true}, {\"feature\": \"Enable a customization option for products, allowing users to select different dinosaur designs.\", \"checked\": false}], \"input_token_count\": 225, \"output_token_count\": 156, \"time_taken\": \"0:00:05.249597\"}",
+        "timestamp": "24082024200846",
+        "message_id": "guest24082024200840"
     }
 ]
