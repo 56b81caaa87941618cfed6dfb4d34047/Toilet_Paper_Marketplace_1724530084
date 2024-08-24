@@ -24,7 +24,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   href="index.html"
                   aria-label="© 2023 RollMart. All rights reserved."
                 >
-                  <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
+                  <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1724530084/main/images/678de58d937747d69f25d6423aaafdc7.jpeg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-pink-200">
