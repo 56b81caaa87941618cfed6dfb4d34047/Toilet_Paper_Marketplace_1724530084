@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the robotic dinosaur image to convey a specific theme or emotion?\", \"option1\": \"Yes, a friendly and welcoming theme.\", \"option2\": \"No specific theme, just a generic robotic dinosaur.\"}, {\"question 2\": \"Should the new image replace an existing image, or is it to be added in a specific section of the marketplace?\", \"option1\": \"Replace an existing image.\", \"option2\": \"Add to a specific section.\"}], \"input_token_count\": 271, \"output_token_count\": 107, \"time_taken\": \"0:00:03.061479\"}",
+        "message_id": "guest24082024200840",
+        "timestamp": "24082024200844",
+        "component_file_name": "purple_background_cta_component_1724530087",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I'll change the image to a robotic dinosaur.",
         "message_id": "guest24082024200840",
