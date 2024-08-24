@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the new toilet paper themed image to be more focused on the product itself or should it include a humorous or lifestyle element as well?\", \"option1\": \"Focus on the product itself\", \"option2\": \"Include a humorous or lifestyle element\"}, {\"question 2\": \"Do you have a specific image in mind or would you prefer we select a stock image that aligns with your theme preferences?\", \"option1\": \"I have a specific image in mind\", \"option2\": \"Select a stock image that aligns with the theme\"}], \"input_token_count\": 272, \"output_token_count\": 126, \"time_taken\": \"0:00:02.959011\"}",
+        "message_id": "guest24082024203913",
+        "timestamp": "24082024203918",
+        "component_file_name": "purple_header_component_1724530087",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, we'll change the image to a toilet paper theme.",
         "message_id": "guest24082024203913",
