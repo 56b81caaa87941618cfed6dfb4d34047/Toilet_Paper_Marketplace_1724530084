@@ -7,12 +7,12 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 
 <template>
   <header class="w-full z-30" id="header-section-container">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-opacity-30 bg-pink-900 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
       <div class="flex items-center justify-between h-16 md:h-20">
         <!-- Site Branding -->
         <div id="site-branding" class="flex-1">
           <a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip">
-            <img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar">
+            <img id="logo-image" class="max-w-none filter brightness-0 invert" src="./images/logo.svg" width="38" height="38" alt="Stellar">
           </a>
         </div>
 
@@ -22,7 +22,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Home-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-purple-200 hover:text-white"
                 href="Home.html"
               >
                 Home
@@ -31,7 +31,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Products-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-purple-200 hover:text-white"
                 href="Products.html"
               >
                 Products
@@ -40,7 +40,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Deals-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-purple-200 hover:text-white"
                 href="Deals.html"
               >
                 Deals
@@ -49,7 +49,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="About Us-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-purple-200 hover:text-white"
                 href="About Us.html"
               >
                 About Us
@@ -58,7 +58,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Contact-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-purple-200 hover:text-white"
                 href="Contact.html"
               >
                 Contact
@@ -72,7 +72,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <li>
             <a
               id="sign-in-link"
-              class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-slate-300 hover:text-white"
+              class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-purple-200 hover:text-white"
               href="signin.html"
             >
               Sign in
@@ -81,10 +81,10 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <li class="ml-6">
             <a
               id="sign-up-link"
-              class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none text-slate-300 hover:text-white [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]"
+              class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-pink-800 before:bg-opacity-50 before:rounded-full before:pointer-events-none text-purple-200 hover:text-white [background:linear-gradient(theme(colors.pink.900),_theme(colors.purple.900))_padding-box,_conic-gradient(theme(colors.pink.400),_theme(colors.purple.700)_25%,_theme(colors.purple.700)_75%,_theme(colors.pink.400)_100%)_border-box]"
               href="signup.html"
             >
-              <span class="relative inline-flex items-center"> Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span> </span>
+              <span class="relative inline-flex items-center"> Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-pink-300">-&gt;</span> </span>
             </a>
           </li>
         </ul>
@@ -100,7 +100,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             :aria-expanded="expanded"
           >
             <span class="sr-only">Menu</span>
-            <svg id="hamburger-icon" class="w-5 h-5 fill-current transition duration-150 ease-in-out text-slate-300 hover:text-white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+            <svg id="hamburger-icon" class="w-5 h-5 fill-current transition duration-150 ease-in-out text-purple-200 hover:text-white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
               <rect y="2" width="20" height="2" rx="1" />
               <rect y="9" width="20" height="2" rx="1" />
               <rect y="16" width="20" height="2" rx="1" />
@@ -116,21 +116,21 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             @keydown.escape.window="expanded = false"
             x-cloak
           >
-            <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
+            <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 bg-opacity-70 backdrop-filter backdrop-blur-lg [background:linear-gradient(theme(colors.pink.900),_theme(colors.purple.900))_padding-box,_conic-gradient(theme(colors.pink.400),_theme(colors.purple.700)_25%,_theme(colors.purple.700)_75%,_theme(colors.pink.400)_100%)_border-box]">
               <li>
-                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Home</a>
+                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-purple-200 hover:text-white" href="Home.html">Home</a>
               </li>
               <li>
-                <a id="mobile-Products-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Products.html">Products</a>
+                <a id="mobile-Products-link" class="flex font-medium text-sm py-1.5 text-purple-200 hover:text-white" href="Products.html">Products</a>
               </li>
               <li>
-                <a id="mobile-Deals-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Deals.html">Deals</a>
+                <a id="mobile-Deals-link" class="flex font-medium text-sm py-1.5 text-purple-200 hover:text-white" href="Deals.html">Deals</a>
               </li>
               <li>
-                <a id="mobile-About Us-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="About Us.html">About Us</a>
+                <a id="mobile-About Us-link" class="flex font-medium text-sm py-1.5 text-purple-200 hover:text-white" href="About Us.html">About Us</a>
               </li>
               <li>
-                <a id="mobile-Contact-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Contact.html">Contact</a>
+                <a id="mobile-Contact-link" class="flex font-medium text-sm py-1.5 text-purple-200 hover:text-white" href="Contact.html">Contact</a>
               </li>
             </ul>
           </nav>
