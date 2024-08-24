@@ -12,5 +12,11 @@
         "content": "change the image to be a robotic dinosaur",
         "timestamp": "24082024200840",
         "message_id": "guest24082024200840"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I'll change the image to a robotic dinosaur.",
+        "timestamp": "24082024200841",
+        "message_id": "guest24082024200840"
     }
 ]
