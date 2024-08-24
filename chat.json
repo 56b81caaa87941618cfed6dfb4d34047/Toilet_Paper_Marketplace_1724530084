@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the dinosaur image to have a specific theme or background?\", \"option1\": \"Yes, I would prefer a prehistoric or natural background.\", \"option2\": \"No, any background that complements the website will do.\"}, {\"question 2\": \"Do you have a preference for the type of dinosaur to be featured in the image?\", \"option1\": \"Yes, I have a specific dinosaur in mind.\", \"option2\": \"No, any visually appealing dinosaur would be fine.\"}], \"input_token_count\": 400, \"output_token_count\": 115, \"time_taken\": \"0:00:03.604664\"}",
+        "message_id": "guest24082024203733",
+        "timestamp": "24082024203738",
+        "component_file_name": "purple_header_component_1724530087",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I am working on changing the image to a dinosaur.",
         "message_id": "guest24082024203733",
