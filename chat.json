@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the dinosaur image to be a cartoon or a realistic illustration?\", \"option1\": \"Cartoon\", \"option2\": \"Realistic illustration\"}, {\"question 2\": \"Should this image replace an existing one, or be added as a new element on the page?\", \"option1\": \"Replace an existing image\", \"option2\": \"Add as a new element\"}], \"input_token_count\": 305, \"output_token_count\": 92, \"time_taken\": \"0:00:02.144392\"}",
+        "message_id": "guest24082024201322",
+        "timestamp": "24082024201326",
+        "component_file_name": "dark_footer_component_1724530087",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great idea! I'll add a dinosaur image for you.",
         "message_id": "guest24082024201322",
