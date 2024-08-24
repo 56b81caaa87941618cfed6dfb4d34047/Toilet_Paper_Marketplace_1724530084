@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great idea! I'll add a dinosaur image for you.",
+        "message_id": "guest24082024201322",
+        "timestamp": "24082024201323",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a dinosaur image",
         "message_id": "guest24082024201322",

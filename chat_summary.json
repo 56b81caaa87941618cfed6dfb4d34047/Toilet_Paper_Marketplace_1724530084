@@ -36,5 +36,11 @@
         "content": "add a dinosaur image",
         "timestamp": "24082024201322",
         "message_id": "guest24082024201322"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great idea! I'll add a dinosaur image for you.",
+        "timestamp": "24082024201323",
+        "message_id": "guest24082024201322"
     }
 ]
