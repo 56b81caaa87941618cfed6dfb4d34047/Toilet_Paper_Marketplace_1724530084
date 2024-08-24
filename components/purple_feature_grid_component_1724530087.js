@@ -6,7 +6,7 @@ INSTRUCTION: The feature sections are organised in a grid of two rows, each with
 
 <template>
     <!-- Features list -->
-    <div id="features-grid" class="grid md:grid-cols-3 gap-8 md:gap-12 bg-gradient-to-br from-pink-500 via-purple-600 to-black p-8 rounded-xl backdrop-filter backdrop-blur-lg bg-opacity-30 shadow-lg">
+    <div id="features-grid" style="min-height: 470px" class="grid md:grid-cols-3 gap-8 md:gap-12 bg-gradient-to-br from-pink-500 via-purple-600 to-black p-8 rounded-xl backdrop-filter backdrop-blur-lg bg-opacity-30 shadow-lg">
         <!-- Feature 1 -->
         <div id="feature-1" class="bg-white bg-opacity-10 p-6 rounded-lg shadow-md hover:shadow-xl transition duration-300">
             <div id="feature-1-header" class="flex items-center space-x-2 mb-1">
