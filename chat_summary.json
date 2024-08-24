@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a gallery section for multiple images of each product, including the robotic dinosaur image.\", \"checked\": true}, {\"feature\": \"Implement an augmented reality view to see the product in a real environment.\", \"checked\": false}, {\"feature\": \"Integrate a 'Featured Products' carousel on the homepage with dynamic product highlights.\", \"checked\": true}, {\"feature\": \"Add user reviews section under each product with user-uploaded images.\", \"checked\": false}, {\"feature\": \"Include a 'Similar Products' recommendation system based on user browsing history.\", \"checked\": true}, {\"feature\": \"Enable a customization option for products, allowing users to select different dinosaur designs.\", \"checked\": false}], \"input_token_count\": 225, \"output_token_count\": 156, \"time_taken\": \"0:00:05.249597\"}",
         "timestamp": "24082024200846",
         "message_id": "guest24082024200840"
+    },
+    {
+        "role": "user",
+        "content": "add a dinosaur image",
+        "timestamp": "24082024201322",
+        "message_id": "guest24082024201322"
     }
 ]
