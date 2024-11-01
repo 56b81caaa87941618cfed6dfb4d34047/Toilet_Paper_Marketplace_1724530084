@@ -206,6 +206,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific dinosaur-related terminology or phrases would you like to incorporate into the text?\", \"option1\": \"Use playful dinosaur names and puns\", \"option2\": \"Reference specific dinosaur facts or characteristics\"}, {\"question 2\": \"Should the tone of the dinosaur-themed text be more humorous or educational?\", \"option1\": \"Humorous tone\", \"option2\": \"Educational tone\"}], \"input_token_count\": 540, \"output_token_count\": 92, \"time_taken\": \"0:00:01.011985\"}",
+        "message_id": "guest01112024230635",
+        "timestamp": "01112024230639",
+        "component_file_name": "purple_background_cta_component_1724530087",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the text to be dinosaur themed",
         "message_id": "guest01112024230635",
