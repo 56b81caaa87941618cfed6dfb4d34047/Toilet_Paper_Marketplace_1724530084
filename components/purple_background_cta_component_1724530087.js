@@ -26,17 +26,17 @@
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
             <div id="content-subtitle-text" class="flex-1 font-medium text-lg text-pink-300">
-              Trashy Deals, Collected at Your Doorstep
+              Flush-worthy Deals, Delivered to Your Door
             </div>
           </div>
           <div class="flex" id="content-title-container">
             <h2 id="content-title" class="flex-1 text-4xl font-bold mb-4 text-white">
-              Dump into Savings: Your Garbage Disposal Marketplace
+              Roll into Savings: Your Toilet Paper Marketplace
             </h2>
           </div>
           <div class="flex" id="content-body-container">
             <p id="content-body" class="flex-1 text-lg mb-8 text-purple-200">
-              Discover the ultimate destination for all your waste management needs. From biodegradable bags to industrial bins, we've got your garbage covered.
+              Discover the ultimate destination for all your bathroom tissue needs. From ultra-soft to eco-friendly options, we've got your bottom line covered.
             </p>
           </div>
           <a id="content-cta-button" href="#0" class="inline-block px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-pink-500 to-purple-600 rounded-full hover:from-pink-600 hover:to-purple-700 transition duration-300 ease-in-out transform hover:scale-105">
