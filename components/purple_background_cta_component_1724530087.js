@@ -26,21 +26,21 @@
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
             <div id="content-subtitle-text" class="flex-1 font-medium text-lg text-pink-300">
-              Flush-worthy Deals, Delivered to Your Door
+              Trashy Deals, Dumped at Your Doorstep
             </div>
           </div>
           <div class="flex" id="content-title-container">
             <h2 id="content-title" class="flex-1 text-4xl font-bold mb-4 text-white">
-              Roll into Savings: Your Toilet Paper Marketplace
+              Waste Away: Your Garbage Disposal Marketplace
             </h2>
           </div>
           <div class="flex" id="content-body-container">
             <p id="content-body" class="flex-1 text-lg mb-8 text-purple-200">
-              Discover the ultimate destination for all your bathroom tissue needs. From ultra-soft to eco-friendly options, we've got your bottom line covered.
+              Discover the ultimate destination for all your refuse needs. From stinky to putrid options, we've got your trash covered.
             </p>
           </div>
-          <a id="content-cta-button" href="#0" class="inline-block px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-pink-500 to-purple-600 rounded-full hover:from-pink-600 hover:to-purple-700 transition duration-300 ease-in-out transform hover:scale-105">
-            Get Started
+          <a id="content-cta-button" href="#0" class="inline-block px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-green-500 to-brown-600 rounded-full hover:from-green-600 hover:to-brown-700 transition duration-300 ease-in-out transform hover:scale-105">
+            Start Dumping
             <span id="content-cta-arrow" class="ml-2">→</span>
           </a>
           <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1724530084/main/images/680a84ab8fe642d9af9e368521bced62.jpeg" alt="Promotion Image" class="mt-8 mx-auto rounded-lg shadow-xl"/>
