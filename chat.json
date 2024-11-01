@@ -204,5 +204,14 @@
         "timestamp": "1724530087",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "Change the text to be garbage themed",
+        "message_id": "guest01112024225307",
+        "timestamp": "01112024225307",
+        "component_file_name": "purple_background_cta_component_1724530087",
+        "div_id": "",
+        "div_action": ""
     }
 ]
