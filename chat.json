@@ -206,6 +206,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific sections of the app do you want the garbage-themed text to be applied to?\", \"option1\": \"All text throughout the app\", \"option2\": \"Only specific sections like product descriptions or buttons\"}, {\"question 2\": \"Should the garbage theme be light-hearted and funny, or more serious and realistic?\", \"option1\": \"Light-hearted and funny\", \"option2\": \"Serious and realistic\"}], \"input_token_count\": 540, \"output_token_count\": 99, \"time_taken\": \"0:00:01.218913\"}",
+        "message_id": "guest01112024225633",
+        "timestamp": "01112024225643",
+        "component_file_name": "purple_background_cta_component_1724530087",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll modify the text to be garbage themed.",
         "message_id": "guest01112024225633",
