@@ -206,6 +206,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific phrases or terms would you like to see in the garbage-themed text?\", \"option1\": \"Funny and playful references to garbage\", \"option2\": \"More serious but still humorous mentions of waste\"}, {\"question 2\": \"How do you want the garbage-themed text to fit within the overall app design?\", \"option1\": \"Use vibrant colors and cartoonish fonts\", \"option2\": \"Keep a minimalist style with clear, easy-to-read text\"}], \"input_token_count\": 564, \"output_token_count\": 108, \"time_taken\": \"0:00:01.360258\"}",
+        "message_id": "guest01112024230719",
+        "timestamp": "01112024230723",
+        "component_file_name": "purple_background_cta_component_1724530087",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll update the component text to be garbage themed.",
         "message_id": "guest01112024230719",
